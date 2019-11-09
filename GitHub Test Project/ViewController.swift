@@ -12,7 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print("GitHub Test")
+        print("GitHub Test 2")
+        print("GitHub Test 3")
     }
 
 
